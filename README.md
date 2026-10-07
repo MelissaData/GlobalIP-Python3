@@ -37,7 +37,7 @@ And return information of the IP such as:
 ## Tested Environments
 - Windows 10 64-bit Python 3.10.4, Powershell 5.1
 - Ubuntu Linux 20.04.04 LTS 64-bit Python 3.10.4
-- Global IP Cloud API Version 9.2.0.1184
+- Global IP Cloud API Version 10.1200.1.20260916
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
